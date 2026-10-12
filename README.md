@@ -1,17 +1,11 @@
-# ujian_navigator
+<img width="612" height="1088" alt="Screenshot 2026-10-12 at 09 34 19" src="https://github.com/user-attachments/assets/8d239929-92a7-45b0-893b-e5c73bfccfae" />
 
-A new Flutter project.
+<img width="612" height="1088" alt="Screenshot 2026-10-12 at 09 34 22" src="https://github.com/user-attachments/assets/dd87dea4-0578-4b1c-8371-218f6c92a220" />
 
-## Getting Started
+<img width="612" height="1088" alt="Screenshot 2026-10-12 at 09 34 25" src="https://github.com/user-attachments/assets/3c3c4215-0b7f-43a5-916f-4d0a40f07578" />
 
-This project is a starting point for a Flutter application.
+<img width="612" height="1088" alt="Screenshot 2026-10-12 at 09 34 30" src="https://github.com/user-attachments/assets/4bc0a707-1e82-41d9-a984-1a02205f2460" />
 
-A few resources to get you started if this is your first Flutter project:
+<img width="612" height="1088" alt="Screenshot 2026-10-12 at 09 34 32" src="https://github.com/user-attachments/assets/b165a65b-bc26-4576-b325-b329f6303239" />
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="612" height="1088" alt="Screenshot 2026-10-12 at 09 34 35" src="https://github.com/user-attachments/assets/6b8973dc-ba1b-40dc-a0da-4c0593f44aba" />
